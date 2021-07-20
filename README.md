@@ -1,16 +1,16 @@
-## Profiles REST API
+# Profiles REST API
 
 Profiles REST API source code.
 
 
-# API Capabilities
+### API Capabilities
 
  - Create, Update, Delete and Manage user profiles
  - Authenticate with username & password
  - Manage user profile feed items
 
 
-# Tools & Technologies
+### Tools & Technologies
 
  - Django
  - Vagrant
